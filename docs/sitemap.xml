@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://max011027.github.io/newsite/posts/%E7%B9%81%E5%8D%8E/</loc>
+  </url><url>
     <loc>https://max011027.github.io/newsite/categories/</loc>
   </url><url>
     <loc>https://max011027.github.io/newsite/posts/</loc>
@@ -11,7 +13,5 @@
     <loc>https://max011027.github.io/newsite/posts/%E4%B8%93%E8%AE%BF/</loc>
   </url><url>
     <loc>https://max011027.github.io/newsite/</loc>
-  </url><url>
-    <loc>https://max011027.github.io/newsite/posts/%E5%85%B0%E5%B7%9E%E5%A4%9C%E5%B8%82%E7%BB%8F%E6%B5%8E/</loc>
   </url>
 </urlset>
