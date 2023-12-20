@@ -1,7 +1,7 @@
 baseURL = 'https://max011027.github.io/newsite/'
 languageCode = 'en-us'
 canonifyurls = true
-title = '兰州夜市'
+title = '夜市星球'
 theme = 'ananke'
 publishDir = "docs"
 [markup]
