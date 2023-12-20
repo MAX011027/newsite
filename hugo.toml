@@ -1,5 +1,6 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://max011027.github.io/newsite/'
 languageCode = 'en-us'
+canonifyurls = true
 title = '兰州夜市'
 theme = 'ananke'
 publishDir = "docs"
